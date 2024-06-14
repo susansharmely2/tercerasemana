@@ -1,3 +1,3 @@
 tarea semana 3 sesion2
-imagenes
+imagenes (vectoriales y optimizacion)
 formularios (input,label, validacion,select, button)
